@@ -1,11 +1,15 @@
-.navbar{
-    background: none;
+.navbar {
+  background: none;
 }
 
-#phone-image{
-    max-height: 200px;
+#phone-image {
+  max-height: 200px;
 }
 
-#price{
-    color: green;
+#price {
+  color: green;
+}
+
+navbar > button {
+  width: 200px !important;
 }
