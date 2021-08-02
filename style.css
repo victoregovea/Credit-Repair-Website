@@ -1,3 +1,20 @@
+.hero {
+  background-color: #165497;
+}
+
+#getStarted {
+  background-color: #165497;
+  border: black;
+}
+
+#loginButton {
+  background-color: #faaa4c;
+}
+
+.startnow {
+  background-color: #faaa4c;
+}
+
 .navbar {
   background: none;
 }
